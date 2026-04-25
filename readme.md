@@ -74,16 +74,6 @@ This project solves that by integrating:
 * **API**: Cricbuzz RapidAPI
 * **Libraries**: Pandas, Requests
 
----
-
-## 📸 Screenshots
-
-```markdown
-<img width="1555" height="814" alt="image" src="https://github.com/user-attachments/assets/ab237a6f-6fd4-46f6-bc17-c6d22612456f" />
-
-<img width="1532" height="872" alt="image" src="https://github.com/user-attachments/assets/a669e4b1-6186-4c7a-b3b1-d30941c2040e" />
-
-```
 
 ---
 
