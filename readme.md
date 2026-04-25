@@ -46,20 +46,19 @@ Cricbuzz LiveStats is a comprehensive cricket analytics dashboard that bridges t
 
 ---
 
-## 📁 Project Structure
+### 📂 Project Structure
+
+```text
 Cricbuzz/
-│
 ├── app.py
 ├── requirements.txt
 ├── cricket.db
 ├── pages/
-│ ├── 1_Live_Matches.py
-│ ├── 2_Top_Stats.py
-│ ├── 3_SQL_Analytics.py
-│ └── 4_CRUD_Operations.py
+│   ├── 1_Live_Matches.py
+│   ├── 2_Top_Stats.py
+│   ├── 3_SQL_Analytics.py
+│   └── 4_CRUD_Operations.py
 ├── utils/
-│ ├── db_connection.py
-│ └── generate_mock_data.py
+│   ├── db_connection.py
+│   └── generate_mock_data.py
 └── .streamlit/
-
-s
