@@ -185,5 +185,3 @@ Steps:
 
 **Nishant Pratap Singh**
 GitHub: https://github.com/npstanwar
-
-Give the repo a star — it helps visibility.
