@@ -1,4 +1,4 @@
-# 🏏 Cricbuzz LiveStats Dashboard
+#  Cricbuzz LiveStats Dashboard
 
 ### Real-time Cricket Analytics using Streamlit + SQL
 
@@ -6,13 +6,13 @@ Cricbuzz LiveStats is an interactive analytics dashboard that combines **live cr
 
 ---
 
-## 🌐 Live App
+## Live App
 
 https://cricbuzz-livestats-dashboard.streamlit.app/
 
 ---
 
-## 🎯 Problem
+##  Problem
 
 Most cricket platforms either:
 
@@ -29,19 +29,19 @@ This project solves that by integrating:
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 🔴 Live Matches
+###  Live Matches
 
 * Real-time scorecards, teams, venues, formats
 * Smart caching using SQLite (refresh every 5 minutes)
 
-### 📊 Top Stats
+###  Top Stats
 
 * ICC rankings and player search
 * Clean UI with dynamic visuals
 
-### 🧠 SQL Analytics
+###  SQL Analytics
 
 * Interactive SQL playground (25+ queries)
 * Supports:
@@ -57,7 +57,7 @@ This project solves that by integrating:
 
 ---
 
-## 💼 Use Cases
+##  Use Cases
 
 * **Sports Media** → Pre-match and live insights
 * **Fantasy Cricket** → Player performance tracking
@@ -66,7 +66,7 @@ This project solves that by integrating:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 * **Frontend**: Streamlit
 * **Backend**: Python
@@ -77,7 +77,7 @@ This project solves that by integrating:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Cricbuzz/
@@ -97,30 +97,7 @@ Cricbuzz/
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/npstanwar/cricbuzz-livestats-dashboard.git
-cd cricbuzz-livestats-dashboard
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the app
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 🔐 API Key Setup
+##  API Key Setup
 
 Create a file:
 
@@ -134,11 +111,11 @@ Add:
 API_KEY = "your_api_key_here"
 ```
 
-⚠️ Do NOT commit this file to GitHub.
+ Do NOT commit this file to GitHub.
 
 ---
 
-## 🗄 Database Note
+##  Database Note
 
 * SQLite database is **generated dynamically**
 * No need to manually add `cricket.db`
@@ -146,7 +123,7 @@ API_KEY = "your_api_key_here"
 
 ---
 
-## ☁️ Deployment
+##  Deployment
 
 Deployed using **Streamlit Community Cloud**
 
@@ -160,7 +137,7 @@ Steps:
 
 ---
 
-## ⚠️ Important Notes
+##  Important Notes
 
 * Do NOT commit:
 
@@ -172,7 +149,7 @@ Steps:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Add user authentication
 * Replace SQLite with cloud DB (PostgreSQL)
